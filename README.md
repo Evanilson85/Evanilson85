@@ -1,5 +1,7 @@
 ### Olá sejá Bem Vindo 👋
-
+Meu nome é Evanilson,
+Sou Front-End Developer.
+Depois de conhecer esse mundo da programação acabei apaixonando e por esse motivo que estou me esforçando e estudando todos os dias para que possa conseguir chegar até os meus objetivos.
 <!--
 **Evanilson85/Evanilson85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
